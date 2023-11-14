@@ -3,6 +3,8 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizux&label=Profile%20views&color=0e75b6&style=flat" alt="faizux" /> </p> -->
 
+<h1></h1>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faizux" alt="faizux" /></a> </p>
 
 - 🎥 I’m currently building: **Urdu Graphic Design WebApp**
